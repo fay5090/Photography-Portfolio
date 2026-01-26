@@ -42,6 +42,21 @@ div {
     margin: 20px;
 }
 
+h2{
+background-color: palevioletred;
+}
+
+a{
+color: palevioletred;
+}
+
+em{
+    font-style: italic;
+}
+
+strong{
+    font-weight: bold;
+}
 
 
 
