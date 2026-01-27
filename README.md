@@ -13,7 +13,7 @@ The website was built using HTML and CSS.
 2. Open index.html in a web browser
 
 ##Live Site
-
+https://fay5090.github.io/Photography-Portfolio/
 
 ##Technologies
 -HTML
